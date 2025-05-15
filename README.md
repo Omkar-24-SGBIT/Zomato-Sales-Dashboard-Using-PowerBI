@@ -7,6 +7,8 @@ An interactive and visually-rich **Power BI dashboard** that provides deep insig
 ## 🖼️ Dashboard Landing Page
 
 - ✅ **Zomato Logo**
+![Home Page](https://github.com/user-attachments/assets/b434f0fd-5c92-40b2-b2e2-87fb3ffc9c0f)
+
 - 🎛️ **Main Navigation Buttons**:
   - (1) Dashboard 
   - (2) User Performance 
@@ -15,6 +17,7 @@ An interactive and visually-rich **Power BI dashboard** that provides deep insig
 ---
 
 ## 1️⃣ **Dashboard – Amount & Quality**
+
 
 Analyze overall performance based on order amount and quality:
 
@@ -30,6 +33,8 @@ Analyze overall performance based on order amount and quality:
 - 🧭 **Filters**:
   - Amount range
   - Quality score
+  - ![Zomato Dashbord](https://github.com/user-attachments/assets/a78aadd4-1621-4be4-a7f9-1e911e912896)
+
 
 ---
 
@@ -45,6 +50,8 @@ Understand user activity, engagement, and value:
   - User **Ratings**
   - Total Orders
   - **User Count by Age** (Bar/Line Graph)
+ ![User Performance](https://github.com/user-attachments/assets/484beefe-1ddb-447b-929e-8f053890483c)
+
 
 ---
 
@@ -63,6 +70,7 @@ Evaluate performance on a city-by-city basis:
   - **Quality Score** by City (Number)
   - **Total Ratings** (Number)
   - **Order Count** (Number)
+![City Performance](https://github.com/user-attachments/assets/59775def-5eb9-4345-9a92-6d84607b59f0)
 
 ---
 
